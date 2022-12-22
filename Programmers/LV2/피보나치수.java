@@ -1,4 +1,4 @@
-package Programmers;
+
 
 class Solution {
     public int solution(int n) {
